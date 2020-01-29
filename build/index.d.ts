@@ -1,0 +1,1 @@
+export { PromoStandards } from './PromoStandards';
